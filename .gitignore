@@ -1,0 +1,9 @@
+**/*.env
+**/node_modules
+**/dist
+**/__pycache__
+**/.ruffcache
+**/.vscode
+**/.idea
+**/.DS_Store
+**/*.log

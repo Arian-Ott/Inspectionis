@@ -1,0 +1,2 @@
+# Inspectionis - Logging made easy
+
